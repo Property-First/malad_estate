@@ -82,7 +82,7 @@ IP Address: ". $ip . " |\r\n
 
 
 
-Project: ". $project = "Malad Estate, Mumbai " . " |\r\n
+Project: ". $project = "L&T Realty Ahana, Malad, Mumbai " . " |\r\n
 
 
 
