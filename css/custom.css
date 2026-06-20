@@ -626,7 +626,7 @@ header .call {
 }
 .carousel-inner img{
 	width:100%;
-	max-height: 650px;;
+	/* max-height: 650px;; */
 }
 
 .slide-text{
